@@ -1,4 +1,6 @@
-//{ Driver Code Starts
+//A valid grouping can be done if you are able to divide sub-groups where the sum of digits in a sub-group 
+//is less than or equal to the sum of the digits of the sub-group immediately right to it. Your task is to determine the total 
+ //   number of valid groupings that could be done for a given string.
 //Initial Template for Java
 
 import java.util.*;
